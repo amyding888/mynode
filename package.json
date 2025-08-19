@@ -1,0 +1,13 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "Chick eating rice ASCII art script.",
+  "main": "chick.js",
+  "scripts": {
+    "start": "node chick.js",
+    "test": "node chick.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
