@@ -1,0 +1,11 @@
+const chick = [
+  "  \u2B1B\u2B1B\u2B1B\u2B1B       ",
+  " \u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B    ",
+  "\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B    ",
+  "\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B    ",
+  " \u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B\u2B1B    ",
+  "   \u2B1B\u2B1B\u2B1B\u2B1B      ",
+  "          \u2B1C\u2B1C "
+];
+
+chick.forEach(row => console.log(row));
